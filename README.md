@@ -1,7 +1,7 @@
 # AluraMidi
 Projeto feito a partir do curso formação JavaScript da Alura.
 
-![Imagem AluraMidi](./assets/AluraMidi.png)
+![Imagem AluraMidi](./assets/images/AluraMidi.png)
   
 # AluraMidi
 
