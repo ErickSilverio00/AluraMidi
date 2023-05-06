@@ -19,7 +19,7 @@ Página Web criada com base em treinamento de JavaScript da Alura, de um tocador
 
 ## 📁 Acesso ao projeto
 
-[Clique aqui para acessar](https://ericksilverio00.github.io/AluraBooks/)
+[Clique aqui para acessar](https://ericksilverio00.github.io/AluraMidi/)
 
 ## 🛠️ Abrir e rodar o projeto
 
